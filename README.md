@@ -1,13 +1,7 @@
 ## Hi there 👋
 
-Software Architect with 6+ years of experience designing IT architectures for healthtech and Industry 4.0/5.0. I build complex web and industrial systems across Europe and currently focus on modular tools to improve AI adoption and data efficiency. I work on low-latency, event-driven solutions using message brokers and in-memory data stores.
-### Tech stack
+I design architectures that don’t just look good on diagrams — they survive production: real-time flows, strict boundaries, predictable performance, and modularity that keeps costs under control.
 
-- C# / .NET (ASP.NET Core, Blazor, MAUI)
-- Python
-- C++
-- Docker
-- Kubernetes
-- RabbitMQ
-- Redis
-- AI models (LLM, inference, tooling)
+With 6+ years across HealthTech and Industry 4.0/5.0 in Europe, I build systems where latency, reliability, and data quality matter: event-driven services, message brokers, in-memory caching, and pragmatic engineering choices that let teams ship faster without accumulating technical debt.
+
+Core tools: .NET (ASP.NET Core, Blazor, MAUI), Python, C++, Docker/Kubernetes, RabbitMQ, Redis, and LLM inference/tooling.
